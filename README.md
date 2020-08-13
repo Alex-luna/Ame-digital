@@ -70,17 +70,16 @@ Principais facilidades para quem vende:
 &nbsp;
 
 
-|Tabela de custos e tarifas |   |  |
-|---|:---:|---|
-|Mensalidade / Anuidade da conta Ame|-----|Grátis|
-|Receber valores de outro usuário|-----	|Grátis|
-|Enviar valores para outro usuário|-----	|Grátis|
-|Comprar com Ame|-----	|Grátis|
-|Recarregar celular|-----		|Grátis|
-|Depositar	|Cartão de Crédito|	Grátis|
-|Depositar	|Lojas Americanas	|Grátis|
-|Depositar	|Transferência Bancária| Grátis|
---------------------------------------------------
+|Tabela de custos e tarifas         |                       |      |
+|-----------------------------------|:---------------------:|------|
+|Mensalidade / Anuidade da conta Ame|        -----          |Grátis|
+|Receber valores de outro usuário   |        -----          |Grátis|
+|Enviar valores para outro usuário  |        -----          |Grátis|
+|Comprar com Ame                    |        -----          |Grátis|
+|Recarregar celular                 |        -----          |Grátis|
+|Depositar	                        | Cartão de Crédito     |Grátis|
+|Depositar	                        | Lojas Americanas	    |Grátis|
+|Depositar	                        | Transferência Bancária|Grátis|
 
 
 
