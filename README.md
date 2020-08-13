@@ -37,9 +37,20 @@ A Ame é um aplicativo _Mobile_ então todas as suas operações são feitas pel
 &nbsp;
 <h3 id="compra-ame">Para quem compra</h3>
 
+![Compra Ame](Screenshot_90.png)
+
+As principais facilidades para o usuário Ame são:
+- Pagamentos, transferências, depósitos, recarga de celular.
+- Vantagens exclusivas nas lojas parceiras.
+  - Lojas Americanas, nos sites da Americanas.com, Shoptime, Submarino, Soubarato são algumas.
+- Não cobra anuidade ou valores de manutenção, muito menos taxa de ativação da conta.
+- Sistema de Cashback.
+
 
 &nbsp;
-<h3 id=""></h3>
+<h3 id="venda-ame">Para quem vende</h3>
+![Vendas](Screenshot_1.png)
+
 _Projeto escrito e idealizado por Álex Luna_
 
 ![Álex Luna](Assinatura%20de%20e-mail-.jpg)
