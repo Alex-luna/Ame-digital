@@ -1,14 +1,50 @@
 
-# Análise do AME digital e a melhor opção de de cashless para o RDM 2020
+# Análise do AME digital e a melhor opção de cashless para o RDM 2020
 
-```
-aasdasdasdasdasdasdasd 
-asdasdasd asdasdasd
 
-```
-``
-Espero que essa página funcione legal
-``
+**Índice**
+- [Análise do AME digital e a melhor opção de cashless para o RDM 2020](#análise-do-ame-digital-e-a-melhor-opção-de-cashless-para-o-rdm-2020)
+  - [O que é o AME Digital?](#o-que-é-o-ame-digital)
+- [!Álex Luna](#img-srcassinatura20de20e-mail-jpg-altálex-luna)
+
+
+
+
+## O que é o AME Digital?  
+
+>Nascemos em 2018 para mudar esta história e revolucionar a maneira como as pessoas se relacionam com o dinheiro – somos uma fintech e estamos criando uma plataforma de negócios mobile criada para ser essencial na vida das pessoas! Esse propósito nos guia todos os dias.  
+
+Essencialmente a _Ame Digital_ é uma fintech criada pelo grupo americanas, que busca uma mudança na experiência de venda e consumo das pessoas. Com iniciativas de cashback para 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
