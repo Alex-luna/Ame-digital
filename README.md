@@ -4,12 +4,17 @@ Análise do AME digital e a melhor opção de cashless para o RDM 2020
 
 &nbsp;
 
+ Índice
+ --
+
 *   [Overview Ame Digital](#overview)
     *   [O que é o Ame Digital?](#ame)
     *   [Como funciona?](#como-ame)
         *   [Para quem compra](#compra-ame)
         *   [Para quem vende](#venda-ame)
+        *   [Tabela de custos e Prazos](#tabela)
 
+*   [Overview Ame Digital](#overview)
 
 &nbsp;
 
@@ -66,7 +71,7 @@ Principais facilidades para quem vende:
 - **Não tem taxa** de transferência. Porém você só pode realizar **dois saques por dia**.
 
 &nbsp;
-
+<h3 id="tabela">Tabela de custos e prazos</h3>
 &nbsp;
 
 
@@ -81,7 +86,17 @@ Principais facilidades para quem vende:
 |Depositar	                        | Lojas Americanas	    |Grátis|
 |Depositar	                        | Transferência Bancária|Grátis|
 
+&nbsp;
 
+&nbsp;
+
+|Tabela de prazos e disponibilidade                                     |                     |
+|-----------------------------------------------------------------------|---------------------|
+| Saldo do Receba de Volta          | Em 30 (trinta) dias corridos após aprovação do pagamento|
+| Transferência de valores (saldo) entre usuários (envio e recebimento) | Até 6 (seis) Horas |
+| Aprovação do pagamento com conta Ame                                  | Até 72 (setenta e duas) horas  |
+| Retorno Devido à Impossibilidade de Transferência                     | Automaticamente    |
+| Carregar saldo / Transferência entre usuários via cartão de crédito   | Até 72 (setenta e duas) horas |
 
 &nbsp;
 
