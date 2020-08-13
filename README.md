@@ -69,7 +69,8 @@ Principais facilidades para quem vende:
 
 &nbsp;
 
-|<h3 id="tabela">Tabela de custos e tarifas<h3> |   |  |
+
+|Tabela de custos e tarifas |   |  |
 |---|:---:|---|
 |Mensalidade / Anuidade da conta Ame|-----|Grátis|
 |Receber valores de outro usuário|-----	|Grátis|
