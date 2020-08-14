@@ -98,13 +98,13 @@ Principais facilidades para quem vende:
 
 &nbsp;
 
-|Tabela de prazos e disponibilidade                                     |                     |
-|-----------------------------------------------------------------------|---------------------|
-| Saldo do Receba de Volta          | Em 30 (trinta) dias corridos após aprovação do pagamento|
-| Transferência de valores (saldo) entre usuários (envio e recebimento) | Até 6 (seis) Horas |
-| Aprovação do pagamento com conta Ame                                  | Até 72 (setenta e duas) horas  |
-| Retorno Devido à Impossibilidade de Transferência                     | Automaticamente    |
-| Carregar saldo / Transferência entre usuários via cartão de crédito   | Até 72 (setenta e duas) horas |
+|Tabela de prazos e disponibilidade                                     |                                                         |
+|-----------------------------------------------------------------------|---------------------------------------------------------|
+| Saldo do Receba de Volta                                              | Em 30 (trinta) dias corridos após aprovação do pagamento|
+| Transferência de valores (saldo) entre usuários (envio e recebimento) | Até 6 (seis) Horas                                      |
+| Aprovação do pagamento com conta Ame                                  | Até 72 (setenta e duas) horas                           |
+| Retorno Devido à Impossibilidade de Transferência                     | Automaticamente                                         |
+| Carregar saldo / Transferência entre usuários via cartão de crédito   | Até 72 (setenta e duas) horas                           |
 
 &nbsp;
 
@@ -156,12 +156,12 @@ A Eyemobile parece ser uma empresa com bastante experiência de mercado, dentre 
 
 &nbsp;
 
-| Sistema Cashless |Funciona Offline|Dashboard|API de integração|
-|------------------|:---------------:|:------:|:---------------:|
-|Eyemobile         | sim             | sim    | sim             |
-|Net Pdv           |  -              |  -     |  -              |
-|Zig Pay           |  -              |  -     |  -              |
-|Pay On            |  -              |  -     |  -              |
+| Sistema Cashless |Funciona Offline |Dashboard|API de integração|
+|------------------|:---------------:|:-------:|:---------------:|
+|Eyemobile         | sim             | sim     | sim             |
+|Net Pdv           |  -              |  -      |  -              |
+|Zig Pay           |  -              |  -      |  -              |
+|Pay On            |  -              |  -      |  -              |
 
 &nbsp;
 
