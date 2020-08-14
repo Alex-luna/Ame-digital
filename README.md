@@ -79,11 +79,11 @@ Principais facilidades para quem vende:
 - **Não tem taxa** de transferência. Porém você só pode realizar **2 (dois) saques por dia**.
 
 &nbsp;
-<h3 id="tabela">Tabela de custos e prazos</h3>
+<h3 id="tabela">Tabela de custos e Tarifas</h3>
 &nbsp;
 
 
-|Tabela de custos e tarifas         |                       |      |
+|Custos e tarifas                   |                       |      |
 |-----------------------------------|:---------------------:|------|
 |Mensalidade / Anuidade da conta Ame|        -----          |Grátis|
 |Receber valores de outro usuário   |        -----          |Grátis|
@@ -96,9 +96,10 @@ Principais facilidades para quem vende:
 
 &nbsp;
 
+<h3 id="tabela">Tabela de prazos e disponibilidade</h3>
 &nbsp;
 
-|Tabela de prazos e disponibilidade                                     |                                                         |
+|Prazos e disponibilidade                                               |                                                         |
 |-----------------------------------------------------------------------|---------------------------------------------------------|
 | Saldo do Receba de Volta                                              | Em 30 (trinta) dias corridos após aprovação do pagamento|
 | Transferência de valores (saldo) entre usuários (envio e recebimento) | Até 6 (seis) Horas                                      |
@@ -162,6 +163,8 @@ A Eyemobile parece ser uma empresa com bastante experiência de mercado, dentre 
 |Net Pdv           |  -              |  -      |  -              |
 |Zig Pay           |  -              |  -      |  -              |
 |Pay On            |  -              |  -      |  -              |
+
+&nbsp;
 
 &nbsp;
 
