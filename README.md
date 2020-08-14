@@ -1,6 +1,5 @@
 
-Análise do AME digital e a melhor opção de cashless para o RDM 2020
-===
+<h1 id="inicio">Análise do AME digital e a melhor opção de cashless para o RDM 2020</h1>
 
 &nbsp;
 
@@ -45,7 +44,7 @@ A Ame é um aplicativo _Mobile_ então todas as suas operações são feitas pel
 &nbsp;
 <h3 id="compra-ame">Para quem compra</h3>  
 
-[voltar para o início](#indice)
+[voltar para o início](#inicio)
 &nbsp;
 
 ![Compra Ame](Screenshot_90.png)
@@ -54,15 +53,17 @@ A Ame é um aplicativo _Mobile_ então todas as suas operações são feitas pel
 
 As principais facilidades para o usuário Ame são:
 - Pagamentos, transferências, depósitos, recarga de celular.
-- Vantagens exclusivas nas lojas parceiras.
+- Vantagens exclusivas nas lojas parceiras:
   - Lojas Americanas, nos sites da Americanas.com, Shoptime, Submarino, Soubarato são algumas.
-- Não cobra anuidade ou valores de manutenção, muito menos taxa de ativação da conta.
+- **Não cobra anuidade** ou valores de manutenção, muito menos taxa de ativação da conta.
 - Sistema de Cashback, o saldo entra automaticamente na sua conta Ame e não expira nunca.
   - O valor do cashback não é fixo, ele varia de acordo com as ações promocionais das lojas parceiras.
 
 
 &nbsp;
 <h3 id="venda-ame">Para quem vende</h3> 
+
+[voltar para o início](#inicio)
 &nbsp;
 
 ![Vendas](Screenshot_1.png)
@@ -75,7 +76,7 @@ Principais facilidades para quem vende:
 
   - Já com o QR code sem valor é mais genérico. Com ele, o cliente lê o código e digita o valor a te pagar. Muito útil para compras de mais de um item ou então para quem vende uma variedade grande de produtos.
 
-- **Não tem taxa** de transferência. Porém você só pode realizar **dois saques por dia**.
+- **Não tem taxa** de transferência. Porém você só pode realizar **2 (dois) saques por dia**.
 
 &nbsp;
 <h3 id="tabela">Tabela de custos e prazos</h3>
@@ -111,6 +112,8 @@ Principais facilidades para quem vende:
 
 &nbsp;
 <h2 id="sistema">Sistemas Cashless</h2>
+
+[voltar para o início](#inicio)
 &nbsp;
 
 >Antes de tudo, até o presente momento da pesquisa feita, NÃO FOI ENCONTRADO nenhum sistema que tenha integração com a Ame.
@@ -122,6 +125,48 @@ Nós últimos 2 (dois) anos fizemos 3 (três) eventos usando o sistema cashless 
 
 Dito isso foi feita uma pesquisa para buscar as melhores opções de sistema para usarmos. É importante salientar que as informações contidas aqui são limitadas, justamente porque sistemas de cashless no Brasil não tem uma "unificação" ou "padronização" no modo como eles disponibilizam as informações. Então o interessante seria conseguir se reunir com as melhores opções dessa lista pra tirar todas as duvidas e buscar possíveis parcerias.
 
+
+- Zig Pay
+- Net PDV
+- Pay on
+- Eyemobile
+- 
+
+<h3 id="eye">Eyemobile</h3>
+
+[voltar para o início](#inicio)
+&nbsp;
+
+
+![Eymobile](eyemobile.png)
+
+A Eyemobile parece ser uma empresa com bastante experiência de mercado, dentre suas operações estão o _Carnaval do Rio 2018_,_Festival Planeta Brasil 2019_, _Salão do automóvel 2018_ e a operação do _Bob´s no ROCK IN RIO 2017_.
+
+
+- **Pontos Positivos:**
+  - teste
+  - 
+- **Pontos Negativos:**
+
+
+
+&nbsp;
+
+<h3 id="comparativo">Comparativo dos sistemas<h3>
+
+&nbsp;
+
+| Sistema Cashless |Funciona Offline|Dashboard|API de integração|
+|------------------|:---------------:|:------:|:---------------:|
+|Eyemobile         | sim             | sim    | sim             |
+|Net Pdv           |  -              |  -     |  -              |
+|Zig Pay           |  -              |  -     |  -              |
+|Pay On            |  -              |  -     |  -              |
+
+&nbsp;
+
+[voltar para o início](#inicio)
+&nbsp;
 
 _Projeto escrito e idealizado por Álex Luna_
 
