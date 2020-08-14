@@ -14,7 +14,7 @@ Análise do AME digital e a melhor opção de cashless para o RDM 2020
         *   [Para quem vende](#venda-ame)
         *   [Tabela de custos e Prazos](#tabela)
 
-*   [Overview Ame Digital](#overview)
+*   [Sistemas Cashless](#sistema)
 
 &nbsp;
 
@@ -99,6 +99,22 @@ Principais facilidades para quem vende:
 | Carregar saldo / Transferência entre usuários via cartão de crédito   | Até 72 (setenta e duas) horas |
 
 &nbsp;
+
+*  *  *
+
+&nbsp;
+<h2 id="sistema">Sistemas Cashless</h2>
+&nbsp;
+
+>Antes de tudo, até o presente momento da pesquisa feita, NÃO FOI ENCONTRADO nenhum sistema que tenha integração com a Ame.
+
+&nbsp;
+
+Nós últimos 2 (dois) anos fizemos 3 (três) eventos usando o sistema cashless de consumo da 
+[Nugo](https://www.nugo.com.br) , porém devido a mudanças internas até o presente momento (_13/08/2020_) não vamos conseguir utilizar o sistema esse ano no RDM 2021.
+
+Dito isso foi feita uma pesquisa para buscar as melhores opções de sistema para usarmos. É importante salientar que as informações contidas aqui são limitadas, justamente porque sistemas de cashless no Brasil não tem uma "unificação" ou "padronização" no modo como eles disponibilizam as informações. Então o interessante seria conseguir se reunir com as melhores opções dessa lista pra tirar todas as duvidas e buscar possíveis parcerias.
+
 
 _Projeto escrito e idealizado por Álex Luna_
 
