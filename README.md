@@ -153,7 +153,7 @@ A Eyemobile parece ser uma empresa com bastante experiência de mercado, dentre 
 
 &nbsp;
 
-<h3 id="comparativo">Comparativo dos sistemas<h3>
+<h3 id="comparativo">Comparativo dos sistemas</h3>
 
 &nbsp;
 
